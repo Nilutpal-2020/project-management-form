@@ -3,7 +3,7 @@ let jpdbIRL = "/api/irl";
 let jpdbIML = "/api/iml";
 let projectDBName = "COLLEGE-DB";
 let projectRelationName = "PROJECT-TABLE";
-let connToken = "90932977|-31949275856000418|90949456";
+let connToken = "Enter your connection token here...";
 
 $("#pid").focus();
 $("#pname").prop("disabled", true);

@@ -38,8 +38,13 @@ Follow these steps for creating developer account and generating a connection to
 
 ## Examples of use
 
+> On load
 ![Dashboard](https://github.com/Nilutpal-2020/project-management-form/blob/main/Images/dashboard.png)
+
+> New Data Entry
 ![Save_Example](https://github.com/Nilutpal-2020/project-management-form/blob/main/Images/save_example.png)
+
+> Update Data
 ![Update_Example](https://github.com/Nilutpal-2020/project-management-form/blob/main/Images/update_example.png)
 
 #### Date:
