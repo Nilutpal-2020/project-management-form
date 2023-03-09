@@ -38,9 +38,9 @@ Follow these steps for creating developer account and generating a connection to
 
 ## Examples of use
 
-![Dashboard]()
-![Save_Example]()
-![Update_Example]()
+![Dashboard](https://github.com/Nilutpal-2020/project-management-form/blob/main/Images/dashboard.png)
+![Save_Example](https://github.com/Nilutpal-2020/project-management-form/blob/main/Images/save_example.png)
+![Update_Example](https://github.com/Nilutpal-2020/project-management-form/blob/main/Images/update_example.png)
 
 #### Date:
 > 9th March, 2023
